@@ -13,6 +13,8 @@ npm install -g generator-vue-pc
 Then generate your new project:
 
 ```bash
+mkdir projectDir
+cd projectDir
 yo vue-pc
 ```
 
