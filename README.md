@@ -16,6 +16,14 @@ Then generate your new project:
 yo vue-pc
 ```
 
+Then into your project and create pages components stores :
+
+```bash
+yo vue-pc:page pageName
+yo vue-pc:component componentName
+yo vue-pc:store storeName
+```
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
